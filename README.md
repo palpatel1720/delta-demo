@@ -2,6 +2,4 @@
 This is Demo for Git &amp; Github class
 
 # student 
-pal
-
-
+pal patel
